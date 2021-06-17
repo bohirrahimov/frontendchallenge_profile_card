@@ -21,7 +21,7 @@ body{
 }
 .middle{
   height: 150px;
-  border-bottom: 1px solid hsl(0, 0%, 59%);
+  border-bottom: 1px solid hsl(227, 10%, 46%);
   text-align: center;
 }
 .center{
@@ -42,6 +42,7 @@ body{
   line-height: 2;
   font-weight: 700;
   font-size: 18px;
+  color: hsl(229, 23%, 23%);
 }
 .name-text{
   position: relative;
